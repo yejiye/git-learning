@@ -1,0 +1,12 @@
+--首次学习git
+创建仓库命令：git init（选中目录执行）
+
+--学习git add 和commit命令
+git文件要先add,才能commit至仓库
+
+--学习git版本回退功能
+git reset -hard HEAD(表示当前版本)^(上一个版本)
+git reset -hard commitId(可以支持模糊查询)
+--测试哈哈哈哈哈
+
+--测试git checkout命令
