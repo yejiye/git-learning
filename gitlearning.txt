@@ -10,3 +10,4 @@ git reset -hard commitId(可以支持模糊查询)
 --测试哈哈哈哈哈
 
 --测试git checkout命令
+-- learn git stage command
